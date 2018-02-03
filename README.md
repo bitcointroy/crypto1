@@ -9,3 +9,4 @@ Projects
 
 News Items
 
+Market Report
