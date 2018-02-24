@@ -10,3 +10,5 @@ Projects
 News Items
 
 Market Report
+
+Smart Contracts
